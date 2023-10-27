@@ -37,7 +37,7 @@
     
     left: 180px;
     
-    background-image: url("f");
+    background-image: url("fondo.jpg");
     
     }
     
@@ -51,13 +51,31 @@
     
     }
     
+    
+    
+    
+    .textoi3{
+    
+        font-size: 50px;
+        
+        text-align: justify;
+        
+        color: rgb(226, 37, 185);
+    
+     
+    
+    }
+
+
+    
+    
     .texto{
     
-    font-size: 40px;
-    
-    text-align: justify;
-    
-    color: brown;
+        font-size: 40px;
+        
+        text-align: justify;
+        
+        color: brown;
     
      
     
