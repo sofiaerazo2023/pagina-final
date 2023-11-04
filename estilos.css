@@ -235,6 +235,57 @@
                                 
                                 }
 
+
+
+                                .imagenadrenalina{
+
+                                    position: relative;
+                                    
+                                     
+                                    
+                                    width: 700px;
+                                    
+                                    height: 790px;
+                                    
+                                    border-radius: 10px;
+                                    
+                                    background-repeat: no-repeat;
+                                    
+                                     
+                                    
+                                    left: 180px;
+                                    
+                                    background-image: url("adrenalina.jpg");
+                                    
+                                    }
+
+
+                                
+
+
+
+                                .imagencrecimiento{
+
+                                    position: relative;
+                                    
+                                     
+                                    
+                                    width: 600px;
+                                    
+                                    height: 690px;
+                                    
+                                    border-radius: 10px;
+                                    
+                                    background-repeat: no-repeat;
+                                    
+                                     
+                                    
+                                    left: 180px;
+                                    
+                                    background-image: url("crecimiento.jpg");
+                                    
+                                    }
+    
     .contenedor{
     
      
@@ -277,13 +328,26 @@
 
 
 
-    .texto{
+    .textoe3{
     
-        font-size: 40px;
+        font-size: 55px;
         
         text-align: justify;
         
-        color: brown;
+        color: rgb(121, 6, 136);
+    
+     
+    
+    }
+
+
+    .textob3{
+    
+        font-size: 55px;
+        
+        text-align: justify;
+        
+        color: rgb(17, 121, 7);
     
      
     
