@@ -285,7 +285,219 @@
                                     background-image: url("crecimiento.jpg");
                                     
                                     }
+
+
+
+
+
+                                .imagenoral{
+        
+                                    position: relative;
+                                    
+                                     
+                                    
+                                    width: 800px;
+                                    
+                                    height: 890px;
+                                    
+                                    border-radius: 10px;
+                                    
+                                    background-repeat: no-repeat;
+                                    
+                                     
+                                    
+                                    left: 180px;
+                                    
+                                    background-image: url("oral.jpeg");
+                                    
+                                    }
+
+
+                                    .imagenescrita{
+        
+                                        position: relative;
+                                        
+                                         
+                                        
+                                        width: 800px;
+                                        
+                                        height: 890px;
+                                        
+                                        border-radius: 10px;
+                                        
+                                        background-repeat: no-repeat;
+                                        
+                                         
+                                        
+                                        left: 180px;
+                                        
+                                        background-image: url("escrita.jpeg");
+                                        
+                                        }
+
+
+                                        .imagenrupestre{
+        
+                                            position: relative;
+                                            
+                                             
+                                            
+                                            width: 800px;
+                                            
+                                            height: 890px;
+                                            
+                                            border-radius: 10px;
+                                            
+                                            background-repeat: no-repeat;
+                                            
+                                             
+                                            
+                                            left: 180px;
+                                            
+                                            background-image: url("rupestre.jpg");
+                                            
+                                            }
     
+
+                                            .imagenperiodico{
+        
+                                                position: relative;
+                                                
+                                                 
+                                                
+                                                width: 800px;
+                                                
+                                                height: 890px;
+                                                
+                                                border-radius: 10px;
+                                                
+                                                background-repeat: no-repeat;
+                                                
+                                                 
+                                                
+                                                left: 180px;
+                                                
+                                                background-image: url("periodico.jpeg");
+                                                
+                                                }
+
+
+                                                .imagenradio{
+        
+                                                    position: relative;
+                                                    
+                                                     
+                                                    
+                                                    width: 800px;
+                                                    
+                                                    height: 890px;
+                                                    
+                                                    border-radius: 10px;
+                                                    
+                                                    background-repeat: no-repeat;
+                                                    
+                                                     
+                                                    
+                                                    left: 180px;
+                                                    
+                                                    background-image: url("radio.jpeg");
+                                                    
+                                                    }
+
+
+
+                                                    .imagencompu{
+        
+                                                        position: relative;
+                                                        
+                                                         
+                                                        
+                                                        width: 800px;
+                                                        
+                                                        height: 890px;
+                                                        
+                                                        border-radius: 10px;
+                                                        
+                                                        background-repeat: no-repeat;
+                                                        
+                                                         
+                                                        
+                                                        left: 180px;
+                                                        
+                                                        background-image: url("compu.jpeg");
+                                                        
+                                                        }
+
+
+                                                        .imagencelu{
+        
+                                                            position: relative;
+                                                            
+                                                             
+                                                            
+                                                            width: 800px;
+                                                            
+                                                            height: 890px;
+                                                            
+                                                            border-radius: 10px;
+                                                            
+                                                            background-repeat: no-repeat;
+                                                            
+                                                             
+                                                            
+                                                            left: 180px;
+                                                            
+                                                            background-image: url("celu.jpeg");
+                                                            
+                                                            }
+
+
+
+                                                            .imagenint{
+        
+                                                                position: relative;
+                                                                
+                                                                 
+                                                                
+                                                                width: 800px;
+                                                                
+                                                                height: 890px;
+                                                                
+                                                                border-radius: 10px;
+                                                                
+                                                                background-repeat: no-repeat;
+                                                                
+                                                                 
+                                                                
+                                                                left: 180px;
+                                                                
+                                                                background-image: url("int.jpeg");
+                                                                
+                                                                }
+
+
+
+                                                                .imagenredes{
+        
+                                                                    position: relative;
+                                                                    
+                                                                     
+                                                                    
+                                                                    width: 800px;
+                                                                    
+                                                                    height: 890px;
+                                                                    
+                                                                    border-radius: 10px;
+                                                                    
+                                                                    background-repeat: no-repeat;
+                                                                    
+                                                                     
+                                                                    
+                                                                    left: 180px;
+                                                                    
+                                                                    background-image: url("redes.jpeg");
+                                                                    
+                                                                    }
     .contenedor{
     
      
@@ -352,6 +564,22 @@
      
     
     }
+
+
+
+
+
+.textot3{
+
+    font-size: 55px;
+    
+    text-align: justify;
+    
+    color: rgb(9, 100, 80);
+
+ 
+
+}
 
 
     .contenido{
